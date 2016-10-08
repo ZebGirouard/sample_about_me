@@ -1,0 +1,58 @@
+a {
+	text-decoration: none;
+	color: #77f;
+}
+
+a:hover {
+	color: white;
+}
+
+body {
+	background-color: #aaaaaa;
+}
+
+footer {
+	text-align: center;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+img {
+	width: 100%;
+	border-radius: 5px;
+}
+
+li {
+	padding: 1%;
+	float: left;
+}
+
+nav {
+	background-color: orange;
+}
+
+p {
+	font-size: 1.5em;
+}
+
+section {
+	width: 50%;
+	margin: auto;
+	border-radius: 5px;
+	background: #dddddd;
+}
+
+ul {
+	list-style: none;
+}
+
+.clearfix:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+}
